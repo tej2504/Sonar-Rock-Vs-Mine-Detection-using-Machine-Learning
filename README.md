@@ -35,7 +35,8 @@ The goal is to demonstrate how supervised learning algorithms can be applied to 
 
 ## 📁 Dataset
 
-- **Source:** [UCI Machine Learning Repository - Sonar Dataset](https://archive.ics.uci.edu/ml/datasets/connectionist+bench+(sonar,+mines+vs.+rocks))  
+- **Source:** [UCI Machine Learning Repository - Sonar Dataset](https://archive.ics.uci.edu/ml/datasets/connectionist+bench+(sonar,+mines+vs.+rocks))
+- Have attached a more readily usable dataset file in the repository.
 - **Attributes:** 60 features representing sonar signal strengths  
 - **Classes:** Rock (`R`) or Mine (`M`)
 
